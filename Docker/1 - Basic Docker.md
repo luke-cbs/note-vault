@@ -107,3 +107,4 @@ To remove an unused container
 docker container rm ${container_id_or_name}
 ```
 
+You can optionally pass the `-f` to force close it. However it is recommended to first stop the container.

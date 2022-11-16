@@ -57,3 +57,19 @@ docker container run -dt --rm --name {container_name} {image_name} {command}
 ```
 
 When this completes it will the remove the container automatically for you.
+
+## Docker Commit
+
+When you make changes in a container it is useful to create a new image with these changes. 
+
+```sh
+docker container commit {container_id} {new_image_name}
+```
+
+So what this will essentially do is take your existing running container and create a snapshot of that as a new image.
+
+This becomes useful as you can then modify things such as commands on env variables as an example:
+
+```sh
+docker container commit --change='CMD ["ash"]' {container}
+```

@@ -35,3 +35,32 @@ docker image history {image}
 When it comes to images that are built these are considered READ-ONLY. 
 
 What this means is you can have multiple containers that run off the same image and these make modifications to how they are run. However they are not changing the underlying image.
+
+### Merging Layers
+
+Sometimes with so many layers it can become difficult to digest. With layer merging this helps squash layers and makes it easier to see what is doing what. 
+
+First we want to export the container that we want:
+
+```sh
+docker export {container} > {container}.tar
+```
+
+Now that we have exported this container to a zip we can then create a new image from this:
+
+```sh
+cat {container}.tar | docker import - {new_image}:lastest
+```
+
+If we compare the history of our new image vs the original ubuntu image we can see it has been flattened and simplified. This can save space depeneding of the complexity of the image instructiions: 
+
+![[Pasted image 20221120142531.png]]
+
+## Build Cache (Layer Cache)
+
+When building an image the first time it will have to run over every layer and build the entire image.
+
+When you then build it again it will then make use of the layer cache to then speed up this process. Each time it will first check if it should use the cache to then decide (does a diff based on instructions).
+
+
+

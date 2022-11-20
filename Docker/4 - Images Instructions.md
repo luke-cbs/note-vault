@@ -29,14 +29,6 @@ This will then be added to your images once done.
 
 You can then run your image in a container by using the image ID and running through [[1 - Basics#Container]]
 
-### Docker Inspect
-
-To inspect an image:
-
-```docker
-docker inspect {image_name}
-```
-
 ### Copy vs Add Instruction
 
 ```docker
@@ -88,7 +80,7 @@ To perform health checks and monitor our container we can add the instruction be
 HEALTHCHECK --interval=5s CMD ping -c 1 {IP}
 ```
 
-You canb also use `docker inspect {container}` to look at the healthcheck logs.
+You can also use `docker container inspect {container}` to look at the healthcheck logs.
 
 Arguments:
 - `--interval=`
@@ -157,20 +149,4 @@ You can also use `-e`, `--env` or `--env-file` flags to set simple env variables
 
 To see envionment variables when connected to a running container run `echo ${ENV_VARIABLE}`
 
-### Image Tagging
 
-When building you may want to tag your image. This can be done with the `-t` flag.
-
-`docker build -t {image_name}:{tag} .`
-
-You can also tag an image that is already build with the tag command.
-
-`docker tag {image_id} {image_name}:{tag}`
-
-The above will not only name your image. But will also give it a tag.
-
-To tag an existing image with a previous tag and create a new one:
-
-`docker tag {image_id}:{tag} {image_name}:{new_tag}`
-
-This will not remove the original but create a new one with same image ID

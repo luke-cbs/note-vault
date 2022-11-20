@@ -43,7 +43,7 @@ By default your containers are not open for the outside world to look into. To d
 To see a docker containers internal IP you can use
 
 ```shell
-docker inspect {image_name}
+docker container inspect {image_name}
 ```
 
 This will then show you a lot of details but at the bottom you can see:

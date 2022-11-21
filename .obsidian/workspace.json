@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79494472057d57ef",
+            "id": "922d1904c8a5a7ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/5 - Docker Layers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1245f21c85fd7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/5 - Docker Layers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e200b40253c1e37d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/5 - Docker Layers.md",
+                "file": "Docker/Networking/1 - Bridge Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/5 - Docker Layers.md",
+                "file": "Docker/Networking/1 - Bridge Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/5 - Docker Layers.md",
+                "file": "Docker/Networking/1 - Bridge Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/5 - Docker Layers.md"
+                "file": "Docker/Networking/1 - Bridge Networks.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1245f21c85fd7cc",
+  "active": "922d1904c8a5a7ee",
   "lastOpenFiles": [
-    "Docker/7 - Registries.md",
-    "Docker/5 - Docker Layers.md",
-    "Docker/6 - Managing Images.md",
-    "Docker/3 - Other Commands.md",
-    "Docker/4 - Images Instructions.md",
+    "Docker/Networking/0 - Overview.md",
+    "Docker/Networking/1 - Bridge Networks.md",
+    "Docker/Core/0 - Creating your first Linux Box.md",
+    "Docker/Core/5 - Docker Layers.md",
+    "Docker/Core/7 - Registries.md",
+    "Docker/Core/6 - Managing Images.md",
+    "Docker/Core/3 - Other Commands.md",
+    "Docker/Core/4 - Images Instructions.md",
     "Docker/4 - Custom Images.md",
-    "Docker/6 - Flattening Layers.md",
-    "JS/Node JS.md",
-    "Assets/IP's.md",
-    "2022-11-16.md"
+    "Docker/6 - Flattening Layers.md"
   ]
 }

@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "922d1904c8a5a7ee",
+            "id": "6a771041ce470d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Networking/1 - Bridge Networks.md",
+                "file": "Docker/Networking/2 - User Defined Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bddd2c9ff226c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Networking/3 - Host Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fc0be31958eb475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Networking/4 - None Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "781d94431a2bfcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Networking/5 - Port Publishing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Networking/1 - Bridge Networks.md",
+                "file": "Docker/Networking/5 - Port Publishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Networking/1 - Bridge Networks.md",
+                "file": "Docker/Networking/5 - Port Publishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Networking/1 - Bridge Networks.md"
+                "file": "Docker/Networking/5 - Port Publishing.md"
               }
             }
           }
@@ -136,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "922d1904c8a5a7ee",
+  "active": "781d94431a2bfcef",
   "lastOpenFiles": [
-    "Docker/Networking/0 - Overview.md",
+    "Docker/Networking/4 - None Network.md",
+    "Docker/Networking/3 - Host Network.md",
+    "Docker/Networking/2 - User Defined Networks.md",
     "Docker/Networking/1 - Bridge Networks.md",
+    "Linux/Useful Packages.md",
+    "Linux/Useful Commands.md",
+    "Docker/Networking/0 - Overview.md",
     "Docker/Core/0 - Creating your first Linux Box.md",
     "Docker/Core/5 - Docker Layers.md",
-    "Docker/Core/7 - Registries.md",
-    "Docker/Core/6 - Managing Images.md",
-    "Docker/Core/3 - Other Commands.md",
-    "Docker/Core/4 - Images Instructions.md",
-    "Docker/4 - Custom Images.md",
-    "Docker/6 - Flattening Layers.md"
+    "Docker/Core/7 - Registries.md"
   ]
 }

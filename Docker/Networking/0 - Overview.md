@@ -10,7 +10,7 @@ There are several drivers available:
 - macvlan
 - none
 
-To see install network drivers use `docker network ls`. You can then get more information on a driver by using `docker inspect {driver_name}`.
+To view all available networks you can use `docker network ls`. This will allow you to see networks and drivers on that instance. You can then get more information on a driver by using `docker inspect {driver_name}`.
 
 To inspect the containers in a network you would use `docker network inspect {network}`.
 To then see what driver a container is running use `docker container inspect {container}`.

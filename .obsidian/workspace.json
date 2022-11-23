@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac8eb850d154275",
+        "id": "c2b7bf664a75f520",
         "type": "tabs",
         "children": [
           {
-            "id": "6a771041ce470d5c",
+            "id": "731dfb0444781534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Networking/2 - User Defined Networks.md",
+                "file": "Docker/Orchestration/0 - Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3bddd2c9ff226c1a",
+            "id": "1d273fd54bcb022f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Networking/3 - Host Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fc0be31958eb475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Networking/4 - None Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781d94431a2bfcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Networking/5 - Port Publishing.md",
+                "file": "Docker/Orchestration/1 - Setting up Docker Swarm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Networking/5 - Port Publishing.md",
+                "file": "Docker/Orchestration/1 - Setting up Docker Swarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Networking/5 - Port Publishing.md",
+                "file": "Docker/Orchestration/1 - Setting up Docker Swarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Networking/5 - Port Publishing.md"
+                "file": "Docker/Orchestration/1 - Setting up Docker Swarm.md"
               }
             }
           }
@@ -173,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "781d94431a2bfcef",
+  "active": "1d273fd54bcb022f",
   "lastOpenFiles": [
+    "Docker/Orchestration/0 - Overview.md",
+    "Docker/Orchestration/1 - Setting up Docker Swarm.md",
+    "Assets/IP's.md",
+    "Docker/Core/0 - Creating your first Linux Box.md",
+    "Docker/Networking/0 - Overview.md",
+    "Docker/Networking/2 - User Defined Networks.md",
+    "Docker/Networking/5 - Port Publishing.md",
     "Docker/Networking/4 - None Network.md",
     "Docker/Networking/3 - Host Network.md",
-    "Docker/Networking/2 - User Defined Networks.md",
-    "Docker/Networking/1 - Bridge Networks.md",
-    "Linux/Useful Packages.md",
-    "Linux/Useful Commands.md",
-    "Docker/Networking/0 - Overview.md",
-    "Docker/Core/0 - Creating your first Linux Box.md",
-    "Docker/Core/5 - Docker Layers.md",
-    "Docker/Core/7 - Registries.md"
+    "Docker/Networking/1 - Bridge Networks.md"
   ]
 }

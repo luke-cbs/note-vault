@@ -74,3 +74,10 @@ This becomes useful as you can then modify things such as commands on env variab
 docker container commit --change='CMD ["ash"]' {container}
 ```
 
+### Remove All Containers
+
+To stop and remove all running containers:
+
+```sh
+docker ps -aq | xargs docker stop | xargs docker rm
+```

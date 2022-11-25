@@ -13,3 +13,5 @@ Some things orchestration can do is:
 This is a container orchestration tool which is natively supported by docker. These are called *swarm clusters*.
 
 To get started with Swarm we will be working with Droplets (VMs) on Digital Ocean. In our case we have created 3 VM's that you will have to ensure all are updated and have docker installed.
+
+In order for swarm nodes to communicate with each other these are done over an *overlay network* see [[6 - Overlay Network]].

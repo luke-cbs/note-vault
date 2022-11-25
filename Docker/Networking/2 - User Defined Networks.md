@@ -11,19 +11,24 @@ As well as:
 
 https://docs.docker.com/network/bridge/
 
-## Creating a User Defined Bridge Network
+## Creating a User Defined Network
 
 To create a new netowork you first run:
 
 ```sh
-docker create --driver bridge {network_name}
+docker network create --driver {driver} {network_name}
 ```
 
 If you do not specify a driver it will by default use bridge.
 
 You can then see your new network with `docker network ls`.
-￼Shell￼
+
+To use your new network:
+
+```sh
 docker container run -dt --name {container_name} --network {network_name} {image}
+```
+
 Then using `docker inspect {network_name}` you can then see the details of your newly created network.
 
 You will also then be able to see your new network when running `ifconfig` as well as the original default birdge `docker0`.
@@ -35,3 +40,4 @@ You will then want to add containers to your new network. To do this run:
 ```sh
 docker container run -dt --name {container_name} --network {network_name} {image}
 ```
+

@@ -74,10 +74,22 @@ This becomes useful as you can then modify things such as commands on env variab
 docker container commit --change='CMD ["ash"]' {container}
 ```
 
-### Remove All Containers
+### Rem/licenseove All Containers
 
 To stop and remove all running containers:
 
 ```sh
 docker ps -aq | xargs docker stop | xargs docker rm
 ```
+
+## Docker System Commands
+
+https://docs.docker.com/engine/reference/commandline/system/
+
+### Docker System Events
+
+This allows you to get server events.
+
+https://docs.docker.com/engine/reference/commandline/system_events/
+
+This is useful for automation of tasks when certain things occur.

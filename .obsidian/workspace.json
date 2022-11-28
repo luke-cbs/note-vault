@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03798f4ae490baa5",
+        "id": "53e53a8f96456e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "53d1a246a00e723a",
+            "id": "3a19285f35def7c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Orchestration/2 - Docker Swarm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Orchestration/2 - Docker Swarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Orchestration/2 - Docker Swarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker/Orchestration/2 - Docker Swarm.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c53da727c3e6687",
+  "active": "3a19285f35def7c2",
   "lastOpenFiles": [
-    "Assets/Pasted image 20221125173520.png",
+    "Docker/Core/3 - Other Commands.md",
+    "Kubernetes/Overview.md",
+    "Docker/Orchestration/Untitled.md",
+    "Docker/Core/3 - Docker System Commands.md",
     "Docker/Orchestration/2 - Docker Swarm.md",
+    "Assets/Pasted image 20221125173520.png",
     "DSA/LRU Cache.md",
     "Docker/Orchestration/1 - Docker Compose.md",
     "Docker/Core/0 - Creating your first Linux Box.md",
-    "Docker/Core/1 - Basics.md",
-    "Docker/Core/5 - Docker Layers.md",
-    "Docker/Orchestration/0 - Overview.md",
-    "Docker/Networking/6 - Overlay Network.md",
-    "Linux/Useful Commands.md"
+    "Docker/Core/1 - Basics.md"
   ]
 }

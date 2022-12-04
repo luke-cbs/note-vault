@@ -48,6 +48,20 @@ There are various ways to configure an Object.
 - `kubectl`
 - Config file in YAML
 
+#### Multiple Object Types in a Kubernetes Cluster
+
+1.  Pods
+2.  Deployments
+3.  ReplicaSets
+4.  Services
+5.  ConfigMaps
+6.  Secrets
+7.  DaemonSets
+8.  StatefulSets
+9.  Ingress
+10.  Jobs
+11.  CronJobs
+
 ### Example POD YAML
 
 To create run `kubectl apply -f {filename}.yaml`
@@ -63,14 +77,3 @@ spec:
   -  image: nginx
      name: democontainer
 ```
-
-## Labels and Selectors
-
-Labels are key balue pairs atached to objects such as pods. They are great for identifying and running commands based on labels.
-
-```
-name: gateway
-env: production
-```
-
-With the above we can see an example of 2 labels. With a key of name/env and value of gateway/production.

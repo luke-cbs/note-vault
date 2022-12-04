@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Overview.md",
+                "file": "Docker/Core/0 - Creating your first Linux Box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3700b22e724a1bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgres/Connecting to Postgres.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fault",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Overview.md",
+                "file": "Postgres/Connecting to Postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Overview.md",
+                "file": "Postgres/Connecting to Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Overview.md"
+                "file": "Postgres/Connecting to Postgres.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a19285f35def7c2",
+  "active": "3700b22e724a1bf9",
   "lastOpenFiles": [
+    "Docker/Core/0 - Creating your first Linux Box.md",
+    "Docker/Core/2 - Docker Exec.md",
     "Docker/Core/3 - Other Commands.md",
+    "Docker/Core/1 - Basics.md",
     "Kubernetes/Overview.md",
     "Docker/Orchestration/Untitled.md",
     "Docker/Core/3 - Docker System Commands.md",
     "Docker/Orchestration/2 - Docker Swarm.md",
     "Assets/Pasted image 20221125173520.png",
-    "DSA/LRU Cache.md",
-    "Docker/Orchestration/1 - Docker Compose.md",
-    "Docker/Core/0 - Creating your first Linux Box.md",
-    "Docker/Core/1 - Basics.md"
+    "DSA/LRU Cache.md"
   ]
 }

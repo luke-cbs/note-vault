@@ -35,6 +35,8 @@ To run a docker container with an image:
 docker container run --name {container_name} -dt -p 80:80 {image_id_or_name}
 ```
 
+To delte a container when it stops running use the flag `--rm`.
+
 **NOTE -** By passing *`-dt`*  you would be running the docker container in detached mode.
 
 ##### Port breakdown

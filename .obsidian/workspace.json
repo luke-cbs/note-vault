@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53e53a8f96456e3a",
+        "id": "279d143f4fc60e38",
         "type": "tabs",
         "children": [
           {
-            "id": "0f66781018a993b1",
+            "id": "76b501b08b62f9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/4 - Secrets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18ca6f0defee25a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/5 - Config Maps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 216.5
   },
   "right": {
     "id": "fe8b11e1a614d965",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/5 - Config Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/5 - Config Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/5 - Config Maps.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18ca6f0defee25a1",
+  "active": "76b501b08b62f9fe",
   "lastOpenFiles": [
+    "Kubernetes/7 - Networking.md",
+    "Kubernetes/11 - Request and Limits.md",
+    "Kubernetes/10 - Taints and Tolerations.md",
+    "Kubernetes/9 - DaemonSets.md",
+    "Kubernetes/8 - Liveness and Readiness Probe.md",
     "Kubernetes/6 - Service.md",
+    "[[2.md",
     "Kubernetes/5 - Config Maps.md",
     "Kubernetes/4 - Secrets.md",
-    "Kubernetes/3 - Deployments.md",
-    "Kubernetes/2 - Replica Sets.md",
-    "Kubernetes/1 - Labels and Selectors.md",
-    "Kubernetes/0 - Overview.md",
-    "Postgres/Connecting to Postgres.md",
-    "Docker/Core/0 - Creating your first Linux Box.md",
-    "Docker/Core/2 - Docker Exec.md"
+    "Kubernetes/3 - Deployments.md"
   ]
 }

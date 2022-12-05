@@ -1,4 +1,4 @@
-When you create a Pod you will have a relavant Private IP address. 
+(Replica)[[2 - Replica Sets]]When you create a Pod you will have a relavant Private IP address. 
 
 So a K8 service can act as an abstraction which can provide a single IP address and DNS through which pods can be accessed.
 

@@ -18,3 +18,10 @@ systemctl status {service}
 ```sh
 apt-get update && apt-get install iputils-ping
 ```
+
+### Update Snap store
+
+```shell
+killall snap-store
+sudo snap refresh snap-store
+```

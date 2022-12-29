@@ -18,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59f25ec9693939d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FE/Mutation Observer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,6 +99,7 @@
               "type": "backlink",
               "state": {
                 "file": "GRPC/How To.md",
+                "file": "FE/Mutation Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +117,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "GRPC/How To.md",
+                "file": "FE/Mutation Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +141,7 @@
               "type": "outline",
               "state": {
                 "file": "GRPC/How To.md"
+                "file": "FE/Mutation Observer.md"
               }
             }
           }
@@ -152,6 +167,7 @@
     }
   },
   "active": "d4e2eab2f4c154a0",
+  "active": "59f25ec9693939d1",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-12-15 21.36.14.excalidraw.md",
     "Containers/Docker/Core/1 - Basics.md",
@@ -163,5 +179,15 @@
     "Containers/Docker/Core/2 - Docker Exec.md",
     "Containers/Docker/Core/3 - Other Commands.md",
     "Untitled.md"
+    "FE/Broadcast Channel API.md",
+    "Go/Overview.md",
+    "Kubernetes/Overview.md",
+    "Docker/Core/3 - Other Commands.md",
+    "Docker/Orchestration/Untitled.md",
+    "Docker/Core/3 - Docker System Commands.md",
+    "Docker/Orchestration/2 - Docker Swarm.md",
+    "Assets/Pasted image 20221125173520.png",
+    "DSA/LRU Cache.md",
+    "Docker/Orchestration/1 - Docker Compose.md"
   ]
 }

@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "0039a5e10a8bdbb1",
+    "id": "1fe4da743ae8a467",
     "type": "split",
     "children": [
       {
-        "id": "063149e555760cba",
+        "id": "e4364b6a7558cc61",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e2eab2f4c154a0",
+            "id": "773cda70b84e5ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRPC/How To.md",
+                "file": "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59f25ec9693939d1",
+            "id": "4ea3afd240d677c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE/Mutation Observer.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f34775a48223b335",
+    "id": "2fe41f43862cd09e",
     "type": "split",
     "children": [
       {
-        "id": "72d4ad9b901e11d7",
+        "id": "b2671340f18ffa9c",
         "type": "tabs",
         "children": [
           {
-            "id": "377d0b13df68d36a",
+            "id": "7888755a5261efeb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "2c53da727c3e6687",
+            "id": "afcdad936b939d2d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tail",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "e12dcf5f1935f83e",
+            "id": "5272330789d6b4dc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,24 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 300
   },
   "right": {
-    "id": "fe8b11e1a614d965",
+    "id": "42f80048025eb5e1",
     "type": "split",
     "children": [
       {
-        "id": "05839d0f74d4748e",
+        "id": "160f5eea2d007afb",
         "type": "tabs",
         "children": [
           {
-            "id": "852af4170f68c080",
+            "id": "5329b075217ac062",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRPC/How To.md",
-                "file": "FE/Mutation Observer.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +110,19 @@
             }
           },
           {
-            "id": "d05ec24ac88895b2",
+            "id": "701ec132c7231480",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRPC/How To.md",
-                "file": "FE/Mutation Observer.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c3aee3b3b6462308",
+            "id": "b59bce6483d1c741",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +133,16 @@
             }
           },
           {
-            "id": "b0bf354e36dc4092",
+            "id": "d64fef035b326d6f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRPC/How To.md"
-                "file": "FE/Mutation Observer.md"
+                "file": "JS_TS/Typescript Notes.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,8 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,28 +160,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d4e2eab2f4c154a0",
-  "active": "59f25ec9693939d1",
+  "active": "4ea3afd240d677c4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-12-15 21.36.14.excalidraw.md",
-    "Containers/Docker/Core/1 - Basics.md",
-    "Excalidraw/Drawing 2022-12-13 20.34.26.excalidraw.md",
-    "Containers/Docker/Networking/2 - User Defined Networks.md",
-    "Containers/Docker/Networking/3 - Host Network.md",
-    "GRPC/How To.md",
-    "Containers/Docker/Core/4 - Images Instructions.md",
-    "Containers/Docker/Core/2 - Docker Exec.md",
-    "Containers/Docker/Core/3 - Other Commands.md",
-    "Untitled.md"
-    "FE/Broadcast Channel API.md",
-    "Go/Overview.md",
-    "Kubernetes/Overview.md",
-    "Docker/Core/3 - Other Commands.md",
-    "Docker/Orchestration/Untitled.md",
-    "Docker/Core/3 - Docker System Commands.md",
-    "Docker/Orchestration/2 - Docker Swarm.md",
-    "Assets/Pasted image 20221125173520.png",
-    "DSA/LRU Cache.md",
-    "Docker/Orchestration/1 - Docker Compose.md"
+    "JS_TS/Untitled.md",
+    "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
+    "Containers/Docker/Storage/3 - Volumes.md",
+    "Linux/Useful Commands.md",
+    "Containers/Docker/Core/7 - Other Commands.md",
+    "Go/Go Resources.md",
+    "Containers/Docker/@Docker Overview.md",
+    "Containers/Docker/Storage/@Storage Overview.md",
+    "Containers/Docker/Storage/2 - Storage Drivers.md",
+    "Containers/Docker/Security/@Security Overview.md"
   ]
 }

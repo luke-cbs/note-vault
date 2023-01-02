@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4364b6a7558cc61",
+        "id": "c79478ff92a80167",
         "type": "tabs",
         "children": [
           {
-            "id": "773cda70b84e5ba5",
+            "id": "8b957e1c890aba3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea3afd240d677c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS_TS/Typescript Notes.md",
+                "file": "DSA/Binary Tree Preorder Traversal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS_TS/Typescript Notes.md",
+                "file": "DSA/Binary Tree Preorder Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS_TS/Typescript Notes.md",
+                "file": "DSA/Binary Tree Preorder Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS_TS/Typescript Notes.md"
+                "file": "DSA/Binary Tree Preorder Traversal.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4ea3afd240d677c4",
+  "active": "8b957e1c890aba3b",
   "lastOpenFiles": [
-    "JS_TS/Untitled.md",
     "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
+    "JS_TS/Typescript Notes.md",
+    "JS_TS/Untitled.md",
     "Containers/Docker/Storage/3 - Volumes.md",
     "Linux/Useful Commands.md",
     "Containers/Docker/Core/7 - Other Commands.md",
     "Go/Go Resources.md",
     "Containers/Docker/@Docker Overview.md",
     "Containers/Docker/Storage/@Storage Overview.md",
-    "Containers/Docker/Storage/2 - Storage Drivers.md",
-    "Containers/Docker/Security/@Security Overview.md"
+    "Containers/Docker/Storage/2 - Storage Drivers.md"
   ]
 }

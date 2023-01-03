@@ -22,7 +22,7 @@ Thereafter are the commands that we want to execute in our Dockerfile.
 Once you are happy with your Dockerfile you can then run
 
 ```shell
-docker build {dockerfile_path}
+docker build -t {tag_name} {dockerfile_path}
 ```
 
 This will then be added to your images once done.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c79478ff92a80167",
+        "id": "9b89b8b9f4d3deb5",
         "type": "tabs",
         "children": [
           {
-            "id": "8b957e1c890aba3b",
+            "id": "537322e16ea646e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Binary Tree Preorder Traversal.md",
+                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Binary Tree Preorder Traversal.md",
+                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Binary Tree Preorder Traversal.md",
+                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Binary Tree Preorder Traversal.md"
+                "file": "Containers/Docker/Networking/2 - User Defined Networks.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8b957e1c890aba3b",
+  "active": "537322e16ea646e0",
   "lastOpenFiles": [
+    "Containers/Docker/Networking/3 - Host Network.md",
+    "GRPC/How To.md",
+    "JS_TS/Node/Node Design Patterns.md",
     "JS_TS/Useful JS API & Libs/Broadcast Channel API.md",
-    "JS_TS/Typescript Notes.md",
-    "JS_TS/Untitled.md",
-    "Containers/Docker/Storage/3 - Volumes.md",
-    "Linux/Useful Commands.md",
-    "Containers/Docker/Core/7 - Other Commands.md",
+    "DSA/Binary Tree Preorder Traversal.md",
     "Go/Go Resources.md",
-    "Containers/Docker/@Docker Overview.md",
-    "Containers/Docker/Storage/@Storage Overview.md",
-    "Containers/Docker/Storage/2 - Storage Drivers.md"
+    "Containers/Docker/Core/4 - Images Instructions.md",
+    "Containers/Docker/Core/6 - Managing Images.md",
+    "JS_TS/Typescript Notes.md",
+    "JS_TS/Untitled.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Containers/Docker/Networking/2 - User Defined Networks.md",
+                "file": "JS_TS/Typescript Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Containers/Docker/Networking/2 - User Defined Networks.md"
+                "file": "JS_TS/Typescript Notes.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "537322e16ea646e0",
   "lastOpenFiles": [
+    "Containers/Docker/Networking/2 - User Defined Networks.md",
     "Containers/Docker/Networking/3 - Host Network.md",
     "GRPC/How To.md",
     "JS_TS/Node/Node Design Patterns.md",
@@ -157,7 +158,6 @@
     "Go/Go Resources.md",
     "Containers/Docker/Core/4 - Images Instructions.md",
     "Containers/Docker/Core/6 - Managing Images.md",
-    "JS_TS/Typescript Notes.md",
-    "JS_TS/Untitled.md"
+    "JS_TS/Typescript Notes.md"
   ]
 }
